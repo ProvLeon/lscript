@@ -9,9 +9,9 @@
 <img src="https://i.imgur.com/MlDFWax.jpg"/>
 <img src="https://i.imgur.com/rbdUIQI.jpg"/>
 </p>
-A video Hackersploit made : https://www.youtube.com/watch?v=oBpo5sElrMY
 
-A video sstec made:         https://www.youtube.com/watch?v=gSO7c2MN7TY
+
+
 
 **For feature-recommendation , add it on the "Issues" tab. NOW!**
 
@@ -174,5 +174,4 @@ OpenSource Projects is a Facebook community page who's goal is to give developer
 ### Donate
 If you like my work, consider buying me a coffee :)
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GC9RSY4CS6KAY)
 
